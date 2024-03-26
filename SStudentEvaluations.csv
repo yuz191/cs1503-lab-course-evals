@@ -1,0 +1,464 @@
+rank,ethnicity,gender,language,age,bty_avg,eval_categorical
+tenure track,minority,female,english,36,5,good
+tenure track,minority,female,english,36,5,bad
+tenure track,minority,female,english,36,5,bad
+tenure track,minority,female,english,36,5,good
+tenured,not minority,male,english,59,3,good
+tenured,not minority,male,english,59,3,good
+tenured,not minority,male,english,59,3,bad
+tenured,not minority,male,english,51,3.333,bad
+tenured,not minority,male,english,51,3.333,bad
+tenured,not minority,female,english,40,3.167,good
+tenured,not minority,female,english,40,3.167,bad
+tenured,not minority,female,english,40,3.167,good
+tenured,not minority,female,english,40,3.167,good
+tenured,not minority,female,english,40,3.167,bad
+tenured,not minority,female,english,40,3.167,bad
+tenured,not minority,female,english,40,3.167,bad
+tenured,not minority,female,english,40,3.167,good
+tenure track,not minority,female,english,31,7.333,good
+tenure track,not minority,female,english,31,7.333,bad
+tenure track,not minority,female,english,31,7.333,good
+tenure track,not minority,female,english,31,7.333,good
+tenure track,not minority,female,english,31,7.333,good
+tenure track,not minority,female,english,31,7.333,good
+tenured,not minority,male,english,62,5.5,good
+tenured,not minority,male,english,62,5.5,good
+tenured,not minority,male,english,62,5.5,good
+tenured,not minority,male,english,62,5.5,good
+tenured,not minority,male,english,62,5.5,good
+tenured,not minority,male,english,62,5.5,good
+tenured,not minority,male,english,62,5.5,good
+tenure track,not minority,female,english,33,4.167,good
+tenure track,not minority,female,english,33,4.167,good
+tenure track,not minority,female,english,33,4.167,good
+tenure track,not minority,female,english,33,4.167,bad
+tenure track,not minority,female,english,33,4.167,bad
+tenured,not minority,female,english,51,4,bad
+tenured,not minority,female,english,51,4,good
+tenured,not minority,female,english,51,4,good
+tenured,not minority,female,english,51,4,good
+tenured,not minority,female,english,51,4,bad
+tenured,not minority,female,english,51,4,good
+tenured,not minority,female,english,51,4,good
+tenure track,not minority,female,english,33,4.667,good
+tenure track,not minority,female,english,33,4.667,good
+tenure track,not minority,female,english,33,4.667,bad
+tenure track,not minority,female,english,33,4.667,good
+tenure track,not minority,female,english,33,4.667,bad
+tenure track,not minority,female,english,33,4.667,good
+tenure track,not minority,female,english,33,4.667,good
+teaching,not minority,male,english,47,5.5,bad
+teaching,not minority,male,english,47,5.5,bad
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+teaching,not minority,male,english,47,5.5,good
+tenure track,minority,male,non-english,35,4.833,bad
+tenure track,minority,male,non-english,35,4.833,bad
+tenure track,minority,male,non-english,35,4.833,good
+teaching,not minority,male,english,37,4.333,good
+teaching,not minority,male,english,37,4.333,good
+teaching,not minority,male,english,37,4.333,good
+teaching,not minority,male,english,37,4.333,good
+teaching,not minority,male,english,37,4.333,bad
+tenured,not minority,male,english,42,4.833,bad
+tenured,not minority,male,english,42,4.833,bad
+tenured,not minority,male,english,42,4.833,bad
+tenured,not minority,male,english,42,4.833,bad
+tenured,not minority,male,english,42,4.833,bad
+tenured,not minority,male,english,42,4.833,good
+tenured,not minority,male,english,42,4.833,bad
+tenured,not minority,male,non-english,49,4,bad
+tenured,not minority,male,non-english,49,4,good
+tenured,not minority,male,non-english,49,4,bad
+tenured,not minority,male,non-english,49,4,bad
+tenure track,not minority,female,english,37,5.5,bad
+tenure track,not minority,female,english,37,5.5,bad
+tenure track,not minority,female,english,37,5.5,bad
+tenure track,not minority,female,english,37,5.5,bad
+tenured,not minority,male,english,45,4.167,good
+tenured,not minority,male,english,45,4.167,good
+tenured,not minority,male,english,45,4.167,good
+tenured,not minority,male,english,45,4.167,good
+tenured,not minority,male,english,45,4.167,bad
+tenured,not minority,male,english,45,4.167,good
+teaching,not minority,female,english,56,2.5,good
+teaching,not minority,female,english,56,2.5,good
+teaching,not minority,female,english,56,2.5,good
+teaching,not minority,female,english,56,2.5,bad
+teaching,not minority,female,english,56,2.5,good
+teaching,not minority,male,english,48,4.333,bad
+teaching,not minority,male,english,48,4.333,bad
+teaching,not minority,male,english,48,4.333,good
+teaching,not minority,male,english,48,4.333,good
+teaching,not minority,male,english,48,4.333,good
+teaching,not minority,male,english,48,4.333,bad
+teaching,not minority,male,english,48,4.333,good
+teaching,not minority,male,english,48,4.333,good
+tenured,not minority,female,english,46,4.333,good
+tenured,not minority,female,english,46,4.333,good
+tenured,not minority,female,english,46,4.333,good
+tenured,not minority,female,english,46,4.333,good
+tenured,not minority,female,english,46,4.333,good
+tenured,not minority,female,english,46,4.333,bad
+tenured,not minority,female,english,46,4.333,good
+tenured,not minority,female,english,46,4.333,bad
+tenured,not minority,female,english,46,4.333,good
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,good
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,57,4.333,bad
+teaching,not minority,female,english,52,4.833,bad
+teaching,not minority,female,english,52,4.833,bad
+teaching,not minority,female,english,52,4.833,bad
+teaching,not minority,female,english,52,4.833,bad
+teaching,not minority,female,english,52,4.833,bad
+teaching,not minority,female,english,52,4.833,good
+tenure track,minority,female,non-english,29,2.833,bad
+tenured,not minority,male,english,62,3,good
+tenured,not minority,male,english,62,3,bad
+tenured,not minority,male,english,62,3,good
+tenured,not minority,male,english,62,3,bad
+tenured,not minority,male,english,62,3,bad
+tenured,not minority,male,english,64,4.167,good
+tenured,not minority,male,english,64,4.167,good
+tenured,not minority,male,english,64,4.167,good
+tenured,not minority,male,english,64,4.167,good
+tenured,not minority,male,english,64,4.167,good
+tenured,not minority,male,english,64,4.167,good
+tenured,not minority,male,english,64,4.167,good
+tenure track,not minority,female,english,34,7.833,good
+tenure track,not minority,female,english,34,7.833,bad
+tenured,not minority,male,english,58,3.833,good
+tenured,not minority,male,english,58,3.833,good
+tenured,not minority,male,english,58,3.833,bad
+tenured,not minority,male,english,58,3.833,good
+tenured,not minority,male,english,58,3.833,good
+tenured,minority,male,non-english,52,4.833,good
+tenured,minority,male,non-english,52,4.833,good
+tenured,minority,male,non-english,52,4.833,good
+tenured,minority,male,non-english,52,4.833,bad
+tenured,minority,male,non-english,52,4.833,bad
+tenured,minority,male,non-english,52,4.833,bad
+tenured,minority,male,non-english,52,4.833,bad
+tenured,not minority,male,english,73,3,bad
+tenured,not minority,male,english,73,3,good
+tenured,not minority,male,english,73,3,bad
+tenured,not minority,male,english,73,3,good
+tenured,not minority,male,english,70,3,good
+tenured,not minority,male,english,70,3,good
+tenured,not minority,male,english,70,3,bad
+tenured,not minority,male,english,70,3,bad
+tenure track,not minority,female,english,41,5.167,bad
+teaching,not minority,male,english,63,4.333,bad
+teaching,not minority,male,english,63,4.333,good
+teaching,not minority,male,english,63,4.333,bad
+teaching,not minority,male,english,63,4.333,good
+teaching,not minority,male,english,63,4.333,bad
+teaching,not minority,male,english,63,4.333,bad
+teaching,not minority,male,english,63,4.333,bad
+tenured,not minority,male,english,47,2.667,good
+tenured,not minority,male,english,47,2.667,bad
+tenured,not minority,male,english,47,2.667,bad
+tenured,not minority,male,english,39,5.5,bad
+tenured,not minority,male,english,39,5.5,bad
+tenured,not minority,male,english,39,5.5,good
+tenured,not minority,male,english,39,5.5,good
+tenured,not minority,male,english,39,5.5,good
+tenure track,minority,female,english,47,4.333,good
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,good
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,good
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,good
+tenure track,minority,female,english,47,4.333,good
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,bad
+tenure track,minority,female,english,47,4.333,good
+tenured,not minority,male,english,54,2.333,good
+tenured,not minority,male,english,54,2.333,good
+tenured,not minority,male,english,54,2.333,good
+tenured,minority,female,english,44,6.5,bad
+tenured,minority,female,english,44,6.5,bad
+tenured,minority,female,english,44,6.5,good
+tenured,minority,female,english,44,6.5,bad
+tenured,minority,male,english,47,2.333,bad
+tenured,minority,male,english,47,2.333,bad
+tenured,minority,male,english,47,2.333,bad
+tenured,minority,male,english,47,2.333,bad
+tenured,minority,male,english,47,2.333,good
+tenured,minority,male,english,47,2.333,bad
+tenured,minority,male,english,47,2.333,bad
+tenured,minority,male,english,47,2.333,bad
+tenured,not minority,male,english,62,3,good
+tenured,not minority,male,english,62,3,good
+tenured,not minority,male,english,62,3,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenured,not minority,male,english,60,3.667,good
+tenure track,not minority,male,english,37,6.167,bad
+tenure track,not minority,male,english,42,4,good
+tenure track,not minority,male,english,42,4,good
+tenure track,not minority,male,english,42,4,good
+tenure track,not minority,male,english,42,4,good
+tenure track,not minority,male,english,42,4,good
+tenured,not minority,male,english,35,4.833,good
+tenured,not minority,male,english,35,4.833,good
+tenured,not minority,male,english,35,4.833,good
+tenured,not minority,male,english,35,4.833,good
+teaching,not minority,female,english,39,8.167,bad
+teaching,not minority,female,english,39,8.167,good
+teaching,not minority,female,english,39,8.167,good
+teaching,not minority,female,english,39,8.167,bad
+tenured,not minority,male,english,49,6.5,bad
+tenured,not minority,male,english,49,6.5,bad
+tenured,not minority,male,english,49,6.5,good
+tenured,not minority,male,english,61,4.833,good
+tenured,not minority,male,english,61,4.833,good
+tenured,not minority,male,english,61,4.833,good
+tenured,not minority,male,english,61,4.833,good
+tenure track,not minority,male,english,33,7,good
+tenure track,not minority,male,english,33,7,bad
+tenure track,not minority,male,english,33,7,bad
+tenured,not minority,female,english,58,4.667,bad
+tenured,not minority,female,english,56,3.833,bad
+tenured,not minority,female,english,56,3.833,bad
+tenured,not minority,female,english,56,3.833,bad
+teaching,not minority,female,english,50,3.167,good
+teaching,not minority,female,english,50,3.167,bad
+teaching,not minority,female,english,50,3.167,good
+teaching,not minority,female,english,50,3.167,bad
+teaching,not minority,female,english,50,3.167,bad
+teaching,not minority,female,english,50,3.167,bad
+teaching,not minority,female,english,50,3.167,good
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,bad
+tenured,not minority,male,english,52,3.167,bad
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,bad
+tenured,not minority,male,english,52,3.167,bad
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,bad
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,good
+tenured,not minority,male,english,52,3.167,good
+tenure track,not minority,female,english,33,5.833,good
+tenure track,not minority,female,english,33,5.833,good
+tenure track,not minority,female,english,33,5.833,good
+tenure track,not minority,female,english,33,5.833,good
+tenure track,not minority,female,english,33,5.833,good
+tenure track,not minority,female,english,33,5.833,good
+tenured,not minority,male,english,57,5.667,good
+tenured,not minority,male,english,57,5.667,good
+tenured,not minority,male,english,57,5.667,good
+tenured,not minority,male,english,57,5.667,good
+tenured,not minority,female,english,38,6.5,good
+tenured,not minority,female,english,38,6.5,good
+tenured,not minority,female,english,38,6.5,good
+tenured,not minority,female,english,38,6.5,good
+tenured,not minority,female,english,38,6.5,good
+tenured,not minority,female,english,38,6.5,good
+tenured,not minority,female,english,38,6.5,good
+tenure track,not minority,female,english,34,1.667,bad
+tenure track,not minority,female,english,34,1.667,bad
+tenure track,not minority,female,english,34,1.667,bad
+tenure track,not minority,female,english,34,1.667,bad
+tenure track,not minority,female,english,34,1.667,bad
+tenure track,not minority,female,english,34,1.667,bad
+tenure track,not minority,male,english,34,6.667,bad
+tenure track,not minority,male,english,34,6.667,bad
+tenure track,not minority,male,english,34,6.667,bad
+tenure track,not minority,male,english,32,3.667,bad
+tenure track,not minority,male,english,32,3.667,bad
+tenure track,not minority,male,english,32,3.667,bad
+tenure track,not minority,male,english,32,3.833,good
+tenure track,not minority,male,english,32,3.833,good
+tenured,not minority,female,english,42,6.167,bad
+tenured,not minority,female,english,42,6.167,bad
+tenured,not minority,female,english,43,3.333,good
+tenured,not minority,female,english,43,3.333,good
+tenured,not minority,female,english,43,3.333,good
+tenured,not minority,female,english,43,3.333,good
+tenured,not minority,female,english,43,3.333,good
+tenured,not minority,female,english,43,3.333,bad
+tenured,not minority,female,english,43,3.333,bad
+tenured,not minority,female,english,43,3.333,good
+tenured,not minority,female,english,43,3.333,bad
+tenured,not minority,female,english,43,3.333,good
+tenure track,not minority,male,non-english,35,3.667,bad
+tenure track,not minority,male,non-english,35,3.667,bad
+tenured,not minority,female,english,62,3.5,bad
+tenured,not minority,female,english,62,3.5,bad
+tenured,not minority,female,english,62,3.5,bad
+tenured,not minority,male,english,42,2.667,good
+tenured,not minority,male,english,39,5.667,good
+tenured,not minority,female,english,52,6,bad
+tenured,not minority,female,english,52,6,bad
+tenured,not minority,female,english,52,6.5,bad
+tenured,not minority,female,english,52,6.5,bad
+tenured,not minority,female,english,52,6.5,bad
+teaching,not minority,female,english,52,2.333,good
+teaching,not minority,female,english,52,2.333,bad
+teaching,not minority,female,english,52,2.333,bad
+teaching,not minority,female,english,52,2.333,good
+teaching,not minority,female,english,52,2.333,good
+teaching,not minority,female,english,52,2.333,good
+teaching,not minority,female,english,52,2.333,bad
+tenured,not minority,male,english,64,2.333,bad
+tenured,not minority,male,english,64,2.333,bad
+tenured,not minority,male,english,64,2.333,bad
+tenured,not minority,male,english,64,2.333,good
+tenured,not minority,male,english,64,2.333,good
+tenured,not minority,male,english,64,2.333,bad
+tenured,not minority,male,english,50,7.167,good
+tenured,not minority,male,english,50,7.167,bad
+tenured,not minority,male,english,60,1.667,bad
+tenured,not minority,male,english,60,1.667,bad
+tenured,not minority,male,english,60,1.667,bad
+tenured,not minority,female,english,51,5.167,bad
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+tenure track,not minority,male,english,43,3.5,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+teaching,minority,male,english,50,3.333,good
+tenured,not minority,male,english,52,5.833,bad
+tenured,not minority,male,english,52,5.833,bad
+tenured,not minority,male,english,52,5.833,bad
+tenured,not minority,male,english,52,5.833,bad
+tenured,not minority,male,english,52,5.833,good
+tenured,not minority,male,english,52,5.833,good
+tenured,not minority,male,english,51,6.167,good
+tenured,not minority,male,english,51,6.167,good
+tenured,not minority,male,english,51,6.167,good
+tenured,not minority,male,english,51,6.167,good
+tenured,not minority,male,english,51,6.167,good
+tenured,not minority,male,english,38,3.333,bad
+tenured,not minority,male,english,38,3.333,good
+tenured,not minority,male,english,38,3.333,bad
+tenured,not minority,male,english,38,3.333,good
+tenured,not minority,female,english,47,5.167,bad
+tenured,not minority,female,english,47,5.167,bad
+tenured,minority,female,english,43,4.167,bad
+tenured,minority,female,english,43,4.167,bad
+teaching,not minority,female,english,38,2.5,good
+teaching,not minority,female,english,38,2.5,good
+teaching,not minority,female,english,38,2.5,bad
+teaching,not minority,female,english,38,2.5,bad
+teaching,not minority,female,english,38,2.5,good
+teaching,not minority,female,english,38,2.5,good
+tenured,not minority,male,english,43,4.333,good
+tenured,not minority,male,english,43,4.333,good
+tenured,not minority,male,english,43,4.333,good
+tenured,not minority,male,english,43,4.333,bad
+tenured,not minority,male,english,57,3,good
+tenured,not minority,male,english,57,3,bad
+tenured,not minority,male,english,57,3,bad
+tenured,not minority,female,english,51,6.333,good
+tenured,not minority,female,english,51,6.333,bad
+tenured,not minority,female,english,51,6.333,bad
+tenured,not minority,female,english,51,6.333,good
+teaching,not minority,male,english,45,3.333,good
+teaching,not minority,male,english,45,3.333,good
+teaching,not minority,male,english,45,3.333,good
+teaching,not minority,male,english,45,3.333,good
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,good
+teaching,not minority,female,english,47,6.667,bad
+teaching,not minority,female,english,47,6.667,good
+teaching,not minority,female,english,47,6.667,good
+teaching,not minority,female,english,47,6.667,good
+teaching,not minority,female,english,47,6.667,bad
+tenured,minority,female,english,54,6.833,bad
+tenured,minority,female,english,54,6.833,good
+tenured,minority,female,english,54,6.833,good
+tenured,minority,female,english,54,6.833,good
+tenured,minority,female,english,54,6.833,bad
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+teaching,not minority,male,english,58,7.833,good
+tenured,not minority,male,english,42,7.833,good
+tenured,not minority,male,english,42,7.833,good
+tenured,not minority,male,english,42,7.833,bad
+tenure track,not minority,male,english,33,5.833,good
+tenure track,not minority,male,english,33,5.833,good
+tenured,not minority,male,english,62,2,bad
+tenured,not minority,male,english,62,2,bad
+tenured,not minority,male,english,62,2,bad
+tenured,not minority,male,english,62,2,bad
+tenured,not minority,male,english,62,2,good
+tenured,not minority,male,english,62,2,bad
+tenured,not minority,male,english,62,2,bad
+tenure track,minority,female,english,35,7.833,bad
+tenure track,minority,female,english,35,7.833,bad
+tenure track,minority,female,english,35,7.833,bad
+tenured,not minority,male,english,61,3.333,bad
+tenured,not minority,male,english,61,3.333,bad
+tenured,not minority,female,english,52,4.5,good
+tenured,not minority,female,english,52,4.5,good
+tenured,not minority,female,english,52,4.5,good
+tenure track,not minority,female,non-english,60,4.333,bad
+tenure track,not minority,female,non-english,60,4.333,bad
+tenure track,not minority,female,non-english,60,4.333,good
+tenure track,not minority,female,non-english,60,4.333,bad
+tenure track,not minority,female,non-english,60,4.333,good
+tenure track,not minority,female,non-english,60,4.333,bad
+tenure track,not minority,female,non-english,60,4.333,good
+tenure track,not minority,male,english,32,6.833,good
+tenure track,not minority,male,english,32,6.833,good
+tenure track,not minority,male,english,32,6.833,good
+tenure track,not minority,male,english,32,6.833,good
+tenure track,not minority,male,english,32,6.833,bad
+tenure track,not minority,male,english,32,6.833,good
+tenure track,minority,female,non-english,42,5.333,bad
+tenure track,minority,female,non-english,42,5.333,bad
+tenure track,minority,female,non-english,42,5.333,bad
+tenure track,minority,female,non-english,42,5.333,good
